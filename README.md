@@ -19,6 +19,8 @@ This project follows a structured data science workflow, including **data cleani
   - `Amount`: Transaction amount
   - `V1 - V28`: Anonymized transaction features (PCA-transformed)
   - `Class`: (0 = Legitimate, 1 = Fraudulent)
+  - **Link For both Dataset**
+  - https://drive.google.com/drive/folders/1ZQ6YbdRaLYhc1TKhbRPXw4rBS1OHr9s4?usp=drive_link
 
 ---
 
